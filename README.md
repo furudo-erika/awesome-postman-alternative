@@ -1,4 +1,4 @@
-# Awesome Postman Alternatives
+# Awesome Postman Alternative
 
 A curated list of excellent alternatives to Postman for API development, testing, and collaboration.
 
